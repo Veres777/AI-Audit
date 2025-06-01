@@ -1,2 +1,26 @@
 .env
 client_secrets.json
+***REMOVED***2993320729
+***REMOVED***2415841956
+***REMOVED***2V8mouULfxiekOVpj9mwUzw
+***REMOVED***true
+
+# Секреты и настройки
+.env
+*.env
+client_secrets.json
+
+# Кэш и системные файлы
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE и окружение
+.idea/
+.vscode/
+.venv/
+venv/
+
+# Тесты и временные файлы
+*.log
+*.csv
